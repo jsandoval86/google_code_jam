@@ -1,0 +1,15 @@
+{
+  "name": "reverse-words",
+  "version": "1.0.0",
+  "description": "reverse order to array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint" : "standard"
+  },
+  "author": "Juan C. Sandoval A. <juancsandoval86@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^8.6.0"
+  }
+}
