@@ -45,7 +45,7 @@ const alfabeto = {
 /**
 * Metodo retorna el t9 spelling de un texto
 * @method t9Spelling
-* @parama {String} text - Cualquier cadena de texto
+* @param {String} text - Cualquier cadena de texto
 * @return {String}
 */
 function t9Spelling (text) {
